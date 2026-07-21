@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 cards:
-  message: "Welcome to CelikBank Cards Service - Production Environment"
+  message: "Welcome to CelikBank Cards Service - Production Environment Details"
   contactDetails:
     name: "Ahmet Celik - Production Lead"
     email: "prodlead@celikbank.com"
