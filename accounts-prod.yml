@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to CelikBank Accounts Service - Production Environment"
   contactDetails:
     name: "Elif Celik - Product Owner"
-    email: "{cipher}6e8d5425513a1df852785d610b464228e40a80ab335566ac074169a1ba704caad193b74ff6dc12aff6b56bc0d751981c"
+    email: "{cipher}c5e0f191b73f5ca1ccf824eb9bdbcc74c3b86e8361c03f699045795a2dde44b87f3af9c620919dffb910e29e2b8bec9f"
   onCallSupport:
     -(525) 979-8387
     -(540) 171-8387
