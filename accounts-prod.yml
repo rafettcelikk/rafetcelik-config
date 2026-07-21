@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to CelikBank Accounts Service - Production Environment Webhook"
+  message: "Welcome to CelikBank Accounts Service - Production Environment Webhook 2"
   contactDetails:
     name: "Elif Celik - Product Owner"
     email: "{cipher}c5e0f191b73f5ca1ccf824eb9bdbcc74c3b86e8361c03f699045795a2dde44b87f3af9c620919dffb910e29e2b8bec9f"
